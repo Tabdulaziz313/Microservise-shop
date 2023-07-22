@@ -1,0 +1,1 @@
+{"version":3,"file":"catalog.module.js","sourceRoot":"","sources":["../../../src/clients/catalog/catalog.module.ts"],"names":[],"mappings":";;;;;;;;;AAAA,2CAAgD;AAChD,uDAAmD;AAS5C,IAAM,aAAa,2BAAnB,MAAM,aAAa;CAAG,CAAA;wBAAhB,aAAa;IANzB,IAAA,eAAM,GAAE;IACR,IAAA,eAAM,EAAC;QACJ,OAAO,EAAE,CAAC,gCAAc,CAAC;QACzB,SAAS,EAAE,CAAC,gCAAc,CAAC;KAC9B,CAAC;GAEW,aAAa,CAAG"}

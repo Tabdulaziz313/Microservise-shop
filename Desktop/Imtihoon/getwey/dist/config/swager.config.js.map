@@ -1,0 +1,1 @@
+{"version":3,"file":"swager.config.js","sourceRoot":"","sources":["../../src/config/swager.config.ts"],"names":[],"mappings":";;;;AAOa,QAAA,aAAa,GAAmB;IACzC,IAAI,EAAE,MAAA,OAAO,CAAC,GAAG,CAAC,YAAY,mCAAI,OAAO;IACzC,OAAO,EAAE;QACL,OAAO,EAAE,OAAO;QAChB,IAAI,EAAE;YACF,OAAO,EAAE,OAAO;YAChB,WAAW,EAAE,cAAc;YAC3B,KAAK,EAAE,SAAS;SACnB;KACJ;CACJ,CAAA"}
